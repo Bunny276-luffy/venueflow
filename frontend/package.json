@@ -13,7 +13,8 @@
     "react-dom": "^18.2.0",
     "lucide-react": "^0.292.0",
     "react-chartjs-2": "^5.2.0",
-    "chart.js": "^4.4.0"
+    "chart.js": "^4.4.0",
+    "@react-google-maps/api": "^2.19.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",

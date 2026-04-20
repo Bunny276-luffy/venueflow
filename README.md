@@ -7,6 +7,7 @@ Smart stadium coordination system to handle live wait times, gate congestion, in
 - **Gate Congestion**: Visual bar chart marking the best recommended gate dynamically.
 - **Live Alerts**: Polled incident and operational alerts.
 - **Map View**: Heatmap rendering of stadium limits and zone activities.
+- **Google Services Integration**: Utilizes `@react-google-maps/api` invoking the Google Maps API, Places API, and Visualization (Heatmap) APIs for detailed spatial planning and real-time crowd overlays.
 - **Responsive**: Smooth glassmorphism dark-theme layout, accessible HTML, responsive grids.
 
 ## Local Setup
